@@ -15,7 +15,7 @@ Add the following to extraApps[] = { };
 The line should now read:  extraApps[] = {"Compass"};
 
 4. Underneath the extraApps line add the compass button:
-
+```
 class Compass 
 {
 	title = "Compass";
@@ -23,6 +23,6 @@ class Compass
 	logo = "ExAdClient\XM8\Apps\CHVD\compass.paa";
         quickFunction = "ExileClientXM8CurrentSlide = 'apps';closeDialog 0;[] execVM 'ExAdClient\XM8\Apps\compass\voyagerCompass.sqf'";
 };		
-
+```
 
 Big thanks to Unknown_GTX for this cool script.
