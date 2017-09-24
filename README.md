@@ -31,4 +31,4 @@ class CfgXM8
 
 }; 
 
-Bog thanks to Unknown_GTX for this cool script.
+Big thanks to Unknown_GTX for this cool script.
