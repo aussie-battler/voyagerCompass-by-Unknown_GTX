@@ -1,4 +1,4 @@
-**voyagerCompass HUD by Unknown_GTX.**
+**voyagerCompass HUD by Unknown_GTX. V1.1**
 
 **Install for Arma3 Exile XM8 apps:**
 
