@@ -28,7 +28,6 @@ class CfgXM8
 		logo = "ExAdClient\XM8\Apps\CHVD\compass.paa";
         quickFunction = "ExileClientXM8CurrentSlide = 'apps';closeDialog 0;[] execVM 'ExAdClient\XM8\Apps\compass\voyagerCompass.sqf'";
 	};		
-
 }; 
 
 Big thanks to Unknown_GTX for this cool script.
