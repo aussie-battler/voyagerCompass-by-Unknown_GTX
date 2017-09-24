@@ -1,4 +1,6 @@
-**Install: voyagerCompass HUD by Unknown_GTX from your XM8.**
+**voyagerCompass HUD by Unknown_GTX.**
+
+**Install for Arma3 Exile XM8 apps:**
 
 1. Install ExAd by @Janski https://goo.gl/VBxFFa
 
