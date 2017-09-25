@@ -25,4 +25,6 @@ quickFunction = "ExileClientXM8CurrentSlide = 'apps';closeDialog 0;[] execVM 'Ex
 };		
 ```
 
+![Arma3 Exile XM8 App](https://raw.githubusercontent.com/aussie-battler/voyagerCompass-by-Unknown_GTX/master/2017.jpg)
+
 Big thanks to Unknown_GTX for this cool script.
