@@ -10,7 +10,7 @@
 
 Add the following to extraApps[] = { };
 
-"ExAd_Unit" 
+"Compass" 
 
 The line should now read:  extraApps[] = {"Compass"};
 
