@@ -1,0 +1,6 @@
+7.10.17 Updated VoyagerCompass.sqf to 1.1
+
+	author - Unknown_GTX aka JonVeD
+
+	version: 1.1
+  -console dependency removed
