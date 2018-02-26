@@ -301,8 +301,8 @@ fnc_showCompass =
       _degreeControl = ((uiNamespace getVariable "RscTitleDisplayEmpty") displayCtrl _ctrl);
 
       _sPos = screenToWorld [0.5,0.5];
- +  	_pPos = getPos player;
- +  	_playerDir = (((((_sPos select 0) - (_pPos select 0)) atan2 ((_sPos select 1) - (_pPos select 1))) + 360) % 360)/100;
+  	  _pPos = getPos player;
+  	  _playerDir = (((((_sPos select 0) - (_pPos select 0)) atan2 ((_sPos select 1) - (_pPos select 1))) + 360) % 360)/100;
 
 
       _controlPos = (ctrlPosition _degreeControl) select 0;
