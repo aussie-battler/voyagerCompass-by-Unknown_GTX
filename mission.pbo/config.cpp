@@ -36,7 +36,7 @@ class CfgXM8
 }; 
 
 /*
-	XM8 Extra apps, the Exile way of doing it
+	XM8 Extra apps,  the Exile way of doing it
 	
 	Here is an example app layout:
 	class XM8_App01_Button: RscExileXM8AppButton1x1
