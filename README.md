@@ -14,7 +14,7 @@ Add the following to extraApps[] = { };
 
 The line should now read:  extraApps[] = {"Compass"};
 
-4. Underneath the extraApps line add the compass button:
+4. Underneath the class CfgXM8, edit it to read:
 ```
 class CfgXM8
 {
