@@ -84,7 +84,7 @@ class XM8_App05_Button: RscExileXM8AppButton1x1
 {
     textureNoShortcut = "ExAdClient\XM8\Apps\compass\compass.paa";
     text = "Compass";
-    onButtonClick = "ExileClientXM8CurrentSlide = 'apps';closeDialog 0;[] execVM 'custom\compass\voyagerCompass.sqf'";
+    onButtonClick = "ExileClientXM8CurrentSlide = 'apps';closeDialog 0;[] execVM 'ExAdClient\XM8\Apps\compass\voyagerCompass.sqf'";
     resource = "";
 };
 
