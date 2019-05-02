@@ -1,5 +1,7 @@
 **voyagerCompass HUD by Unknown_GTX. V1.1**
 
+modified for Arma3 Exile by aussie.
+
 **Install for Arma3 Exile XM8 apps:**
 
 1. Install ExAd by @Janski https://goo.gl/VBxFFa
